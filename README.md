@@ -38,9 +38,8 @@ This project leverages the following Python libraries:
 To replicate the analysis on your own system:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file using `pip install -r requirements.txt`.
-3. Open the `ba_task1.ipynb` Jupyter Notebook and execute each cell to perform data collection, sentiment analysis, and topic modeling.
-4. Review the `Key-Insights-Task1-BA.pdf` document to understand the main findings from Task 1.
+2. Open the `ba_task1.ipynb` Jupyter Notebook and execute each cell to perform data collection, sentiment analysis, and topic modeling.
+2. Review the `Key-Insights-Task1-BA.pdf` document to understand the main findings from Task 1.
 
 ## Acknowledgments
 
